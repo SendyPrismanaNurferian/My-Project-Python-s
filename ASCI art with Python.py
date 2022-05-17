@@ -6,4 +6,5 @@ try:
 except Exception as e:
     print("Gambar Error!!", e)
     
-    
+    #Sebelumnya pastikan download Python unttuk software dan juga download ascii-magic di https://pypi.org/project/ascii-magic/ 
+    #Setelah itu bisa mengikuti source code yang saya buat atau buat dari defaultnya di link download atau bisa lihat channel YT lainnya
