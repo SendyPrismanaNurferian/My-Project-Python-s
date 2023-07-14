@@ -1,5 +1,5 @@
 # THIS IS MY ATM IN PYTHON AND WILL BE UPDATE PATCH
-# the programs is simple ATM and will be decvelop in future versions and this is my batch 1
+#The programs is simple ATM and will be develop in future versions and this is my batch 1
 while True:
     balance =1000000000 #first your account balance
     print ("    ATM JOMBLO     ") #You can change the name ATM
